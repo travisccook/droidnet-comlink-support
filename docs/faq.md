@@ -6,10 +6,10 @@
 Droidnet Comlink is an iOS app that provides hands-free voice control for astromech droids. It listens for your droid's name and sends commands via WiFi to control lights, sounds, and movements.
 
 ### What droids are supported?
-Any droid that can receive serial commands through a Droidnet Signal Booster (or compatible system) can work with the app. This includes R2-D2, BB-8, BD-1, and custom builds.
+Any droid (or, really, any device) that can receive serial commands through a Droidnet Signal Booster can work with the app. 
 
 ### Do I need special hardware?
-Yes, you need a Droidnet Signal Booster (a Raspberry Pi running special software) connected to your droid's control system.
+Yes, you need a Droidnet Signal Booster (a Raspberry Pi running special software) connected to your droid's control system. TODO: LINK TO SIGNAL BOOSTER REPO
 
 ### Does it work offline?
 Yes! All voice processing happens on your device. You only need WiFi to communicate with your droid - no internet required.
@@ -37,9 +37,6 @@ Say your wake word, pause briefly, then say the command. Example: "R2... play ca
 
 ### Can I create custom commands?
 Yes! Go to Commands tab, tap +, and create your own. You can set multiple voice triggers for each command.
-
-### How accurate is voice recognition?
-The app uses advanced phonetic matching to handle variations. For example, if you say "are you" it understands you mean "R2".
 
 ## Troubleshooting
 
@@ -79,11 +76,6 @@ Only devices on your WiFi network can communicate with your Signal Booster. Use 
 ### Can I share my command sets?
 Yes! Use the export feature in Commands tab to share your custom commands with other builders.
 
-### Is there an Apple Watch app?
-Not yet, but it's planned for a future update.
-
-### Can I use Siri Shortcuts?
-This feature is planned for version 1.1.
 
 ---
 

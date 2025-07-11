@@ -1,10 +1,10 @@
 # Droidnet Comlink Support
 
-Welcome to the official support repository for **Droidnet Comlink**, the iOS app for hands-free voice control of astromech droids.
+Welcome to the official support repository for **Droidnet Comlink**, the iOS app for using voice recognition to send commands to your Droidnet Signal Booster!
 
 ## 🚀 About Droidnet Comlink
 
-Droidnet Comlink enables Star Wars droid builders to control their astromech droids using voice commands. The app listens for a customizable wake word (like "R2" or "BB-8"), recognizes spoken commands, and sends corresponding serial commands to droids via a Droidnet Signal Booster.
+Droidnet Comlink enables droid enthusiasts everywhere to control their droids using voice commands. The app listens for a customizable wake word (like "C2" or "BB-9"), recognizes spoken commands, and sends corresponding serial commands to droids via a Droidnet Signal Booster.
 
 ### Key Features
 
@@ -58,11 +58,3 @@ Read our full [Privacy Policy](PRIVACY.md)
   - 31 pre-configured WCB commands
   - Command editor and customization
   - Multi-droid support
-
-## 🙏 Acknowledgments
-
-Built by droid builders, for droid builders. Special thanks to the R2 Builders Club and astromech community.
-
----
-
-*This is not affiliated with or endorsed by Lucasfilm Ltd. or Disney.*
