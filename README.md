@@ -45,11 +45,6 @@ We take your privacy seriously. Droidnet Comlink:
 
 Read our full [Privacy Policy](PRIVACY.md)
 
-## 🤝 Community
-
-- Share your custom command sets in [Discussions](https://github.com/travisccook/droidnet-comlink-support/discussions)
-- Show off your droid builds
-- Connect with other builders
 
 ## 📰 Updates
 
