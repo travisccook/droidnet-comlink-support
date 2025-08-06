@@ -55,6 +55,10 @@ The app comes with 44 pre-configured commands:
 
 View all commands in the **Commands** tab.
 
+### Emergency Stop
+
+If you need to immediately stop voice recognition, say the safe word: **"platypus"**. This will instantly stop all listening and command processing. You can customize the safe word in Settings.
+
 ## Tips for Best Results
 
 1. **Speak Clearly** - Normal speaking pace works best

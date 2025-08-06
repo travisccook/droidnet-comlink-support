@@ -38,6 +38,9 @@ Say your wake word, pause briefly, then say the command. Example: "R2... play ca
 ### Can I create custom commands?
 Yes! Go to Commands tab, tap +, and create your own. You can set multiple voice triggers for each command.
 
+### How do I stop voice recognition quickly?
+Say the safe word "platypus" at any time to immediately stop all voice recognition. You can customize this word in Settings → Safe Word.
+
 ## Troubleshooting
 
 ### Commands aren't working

@@ -12,7 +12,7 @@ Droidnet Comlink enables droid enthusiasts everywhere to control their droids us
 - 🤖 **Smart Matching** - Advanced phonetic matching handles speech variations
 - 📡 **Multi-Droid Support** - Control multiple droids simultaneously
 - 🔒 **Privacy First** - All processing happens on-device
-- 📚 **Command Library** - 31 pre-configured commands with easy customization
+- 📚 **Command Library** - 44 pre-configured commands with easy customization
 - 📤 **Import/Export** - Share command sets with other builders
 
 ## 📱 Download
