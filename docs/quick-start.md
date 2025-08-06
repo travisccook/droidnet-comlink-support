@@ -29,10 +29,11 @@ When you first open Droidnet Comlink:
 
 ### 3. Connect to Your Droid
 
-1. Go to **Droidnet** tab
-2. Wait for your Signal Booster to appear
-3. Tap to select it
-4. You'll see "Connected" status
+1. Go to **Settings** tab
+2. Tap **Droidnet Signal Boosters** at the top
+3. Wait for your Signal Booster to appear
+4. Tap to select it (checkbox will appear)
+5. Your selection will be remembered for next time
 
 ## Using Voice Commands
 
@@ -44,7 +45,7 @@ When you first open Droidnet Comlink:
 
 ### Available Commands
 
-The app comes with 31 pre-configured commands:
+The app comes with 44 pre-configured commands:
 
 - **Music**: Imperial March, Cantina Band, Jedi Theme, Disco
 - **Animations**: Scream, Alarm, Scanning, Leia Message, Yes, No
@@ -66,7 +67,7 @@ View all commands in the **Commands** tab.
 ### "No Booster Connected"
 - Check that your Signal Booster is powered on
 - Ensure both devices are on the same WiFi network
-- Try refreshing the Droidnet tab
+- Go to Settings → Droidnet Signal Boosters to check connection
 
 ### Commands Not Recognized
 - Check your wake word in Settings
